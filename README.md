@@ -5,7 +5,7 @@
 Me chamo Anderson Mariano, tenho 27 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na GRAN. Sou apaixonada por tecnologia, desafios e por mudar a vida das pessoas com programção.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonmariano9/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonmariano801@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailton:andersonmariano801@gmail.com)
 
 ---
 
