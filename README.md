@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Anderson Mariano, tenho 27 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na GRAN. Sou apaixonado por tecnologia, desafios e por mudar a vida das pessoas com programação.
+Me chamo Anderson Mariano, tenho 28 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na GRAN. Sou apaixonado por tecnologia, desafios e por mudar a vida das pessoas com programação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonmariano9/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonmariano801@gmail.com)
